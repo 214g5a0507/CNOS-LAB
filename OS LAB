@@ -1,0 +1,13 @@
+/*
+name of the experiment:
+Roll no:214G5A0507
+name: A.Leenasri
+*/
+//source code
+
+#include<stdio.h>
+int main()
+{
+  printf("HELLO WORLD");
+  return 0;
+}
