@@ -1,3 +1,6 @@
+/*
+Name:A.Leenasri
+Roll no:214g5a0507 */
 #include<stdio.h>
 #include<conio.h>
 main()
